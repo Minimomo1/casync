@@ -2,9 +2,6 @@
 
 @@
 expression e;
-local idexpression r;
-expression list s;
-@@
 - if (e) {
 -   fprintf(stderr, s);
 -   return r;
